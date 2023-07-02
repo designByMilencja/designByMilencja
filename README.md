@@ -1,11 +1,11 @@
 ### Hi there I'm Milena 👋
 #### I wish to become a Fullstack Developer<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-- 🔭 I’m currently traveling the world in a camper van, so I have decided to re-brand myself into a field that does not conflict with my passion. I aspire to become a frontend developer. I have no commercial experience, so I am willing to take on an internship that will enable me to implement myself in the expectations of the company and develop intensively in my chosen direction.
+#### - 🔭 I’m currently traveling the world in a camper van, so I have decided to re-brand myself into a field that does not conflict with my passion. I aspire to become a frontend developer. I have no commercial experience, so I am willing to take on an internship that will enable me to implement myself in the expectations of the company and develop intensively in my chosen direction.
 
-- 🌱 I’m currently learning the library for web and native user interfaces: React and the React Framework for the Web Next.js
+#### - 🌱 I’m currently learning the library for web and native user interfaces: React and the React Framework for the Web Next.js
 
-- 💬 Ask me about my projects or the possibility of cooperation here: 📫 designbymilencja@gmail.com
+#### - 💬 Ask me about my projects or the possibility of cooperation here: 📫 designbymilencja@gmail.com
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=designByMilencja)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=designByMilencja&show_icons=true)  
 

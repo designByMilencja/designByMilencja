@@ -1,9 +1,30 @@
 ### Hi there I'm Milena 👋
+
+### Guide to my main projects on github:
+
+1 Application for counting travel expenses:
+Frontend old version - https://github.com/designByMilencja/Project-Camper-NewFrontend
+Backend - https://github.com/designByMilencja/Project-Camper-Backend
+Frontend old version - https://github.com/designByMilencja/Project-Camper-Frontend
+
+2. Website about traveling by camper van:
+Frontend - https://github.com/designByMilencja/Van-Life-Website
+
+3 Commercial site Frame houses:
+Frontend - this is the final version of structure but without final customer information
+
+4 My 3d portfolio:
+Frontend - https://github.com/designByMilencja/portfolio3d
+
+5 Headhunter application - a group project from MegaK course:
+Frontend - https://github.com/wachen82/g7-headhunter-client
+Backend - https://github.com/designByMilencja/g7-headhunter-server
+
 #### I wish to become a Fullstack Developer<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-#### - 🔭 I’m currently traveling the world in a camper van, so I have decided to re-brand myself into a field that does not conflict with my passion. I aspire to become a frontend developer. I have no commercial experience, so I am willing to take on an internship that will enable me to implement myself in the expectations of the company and develop intensively in my chosen direction.
+#### - 🔭 I’m traveling the world in a camper van, so I have decided to re-brand myself into a field that does not conflict with my passion. I aspire to become a frontend developer. I have no commercial experience, so I am willing to take on an internship that will enable me to implement myself in the expectations of the company and develop intensively in my chosen direction.
 
-#### - 🌱 I’m currently learning the library for web and native user interfaces: React and the React Framework for the Web Next.js
+#### - 🌱 I’m currently learning the library for web interfaces: React and the React Framework for the web Next.js.
 
 #### - 💬 Ask me about my projects or the possibility of cooperation here: 📫 designbymilencja@gmail.com
 

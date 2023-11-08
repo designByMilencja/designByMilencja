@@ -2,21 +2,26 @@
 
 ### Guide to my main projects on github:
 
-1 Application for counting travel expenses:
+1. Application for counting travel expenses:
+
 Frontend old version - https://github.com/designByMilencja/Project-Camper-NewFrontend
 Backend - https://github.com/designByMilencja/Project-Camper-Backend
 Frontend old version - https://github.com/designByMilencja/Project-Camper-Frontend
 
 2. Website about traveling by camper van:
+   
 Frontend - https://github.com/designByMilencja/Van-Life-Website
 
-3 Commercial site Frame houses:
+3. Commercial site Frame houses:
+
 Frontend - this is the final version of structure but without final customer information
 
-4 My 3d portfolio:
+5. My 3d portfolio:
+
 Frontend - https://github.com/designByMilencja/portfolio3d
 
-5 Headhunter application - a group project from MegaK course:
+6. Headhunter application - a group project from MegaK course:
+
 Frontend - https://github.com/wachen82/g7-headhunter-client
 Backend - https://github.com/designByMilencja/g7-headhunter-server
 
